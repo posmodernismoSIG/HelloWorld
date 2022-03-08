@@ -1,0 +1,31 @@
+
+        #thirdDiv {
+            font-size: larger;
+        }
+        h1 {
+            color:rgb(180, 39, 39)
+        }
+        img {
+            width: 400px;
+            height: 400px;
+        }
+        .thirdDiv {
+            height: 600px;
+            width: 500px;
+            background-color: rgb(120, 129, 86);
+            padding: 50px;
+        }
+        
+        #spanId {
+            font-size: 18px;
+            margin: 50px;
+            padding: 20px;
+            border: 3px;
+            border-color: rgb(49, 39, 4);
+            text-align: center;
+            width: 5%;
+            background-color: blueviolet;
+
+        }
+
+
